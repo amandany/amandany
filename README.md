@@ -21,4 +21,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=amandany&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=amandany&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
