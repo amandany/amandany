@@ -1,9 +1,10 @@
 # 💫 About Me:
 
-👨‍💻 I’m a JavaScript developer with 6 years of experience specializing in React and Node.js.
-🌐 I have a strong interest in Web3 technologies and am passionate about building decentralized applications.
-📅 Over the years, I’ve gained 7+ years of experience in IT, focusing on crafting robust and scalable solutions.
+👨‍💻 I’m a JavaScript developer with 6 years of experience specializing in React and Node.js. <br>
+🌐 I have a strong interest in Web3 technologies and am passionate about building decentralized applications.<br>
+📅 Over the years, I’ve gained 7+ years of experience in IT, focusing on crafting robust and scalable solutions.<br>
 🚀 I’m currently working on innovative projects as a Frontend and Backend developer, blending my expertise in modern JavaScript frameworks and Web3.
+
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/PRINCEOFBROKENHEART)
