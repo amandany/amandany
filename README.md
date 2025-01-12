@@ -1,11 +1,12 @@
 # 💫 About Me:
 
-🔭 I’m currently working on React as Frontend developer. And I also well know NodeJs <br>📅 I have more that 5 years experience in a frontend sphere (React/Js) and 7 years experience in IT sphere
-
+👨‍💻 I’m a JavaScript developer with 6 years of experience specializing in React and Node.js.
+🌐 I have a strong interest in Web3 technologies and am passionate about building decentralized applications.
+📅 Over the years, I’ve gained 7+ years of experience in IT, focusing on crafting robust and scalable solutions.
+🚀 I’m currently working on innovative projects as a Frontend and Backend developer, blending my expertise in modern JavaScript frameworks and Web3.
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/PRINCEOFBROKENHEART)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lil_amannn)
 
 # 💻 Tech Stack:
 
